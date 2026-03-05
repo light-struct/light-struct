@@ -1,7 +1,7 @@
 ## Education: 
 College Narxoz
 ## Specialization: 
-Software developer, UX/UI, DB, AI training
+Software developer, Robotics, UX/UI, DB, AI training
 ## Tech Stack:
 <ul>
   <li>Java</li>
